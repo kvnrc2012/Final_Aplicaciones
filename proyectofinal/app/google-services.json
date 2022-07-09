@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869394552169",
+    "firebase_url": "https://finalrataburger-892f8-default-rtdb.firebaseio.com",
+    "project_id": "finalrataburger-892f8",
+    "storage_bucket": "finalrataburger-892f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869394552169:android:0fd129915c1959f99519f8",
+        "android_client_info": {
+          "package_name": "com.upn.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869394552169-lp09pbp076j327ba9aoogp19vrsjoc00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upn.proyectofinal",
+            "certificate_hash": "bd911adb7e5d61d0f73fc0ed684bbb86c96ca3ea"
+          }
+        },
+        {
+          "client_id": "869394552169-n5kuil5osi7d732hri4lps3g3aleef6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXWzyps-vZ5gTgQCqPm9kBu2lzR-h1IO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869394552169-n5kuil5osi7d732hri4lps3g3aleef6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

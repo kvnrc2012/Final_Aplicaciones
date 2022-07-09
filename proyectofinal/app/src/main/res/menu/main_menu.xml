@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_1"
+            android:title="Sede 1"
+            android:icon="@drawable/icon_map24"
+
+            />
+        <item android:id="@+id/menu_2"
+            android:title="Sede 2"
+            android:icon="@drawable/icon_map24"
+
+            />
+
+        <item android:id="@+id/menu_3"
+            android:title="Principal"
+            android:icon="@drawable/icon_new24"
+            android:checked="true"
+            />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <group>
+                <item android:id="@+id/menu_4"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_5"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_6"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_7"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_8"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_12"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_13"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_14"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_15"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_16"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_17"
+                    android:title=""
+                    />
+                <item android:id="@+id/menu_11"
+                    android:title="Salir"
+                    android:icon="@drawable/icon_salir24"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
